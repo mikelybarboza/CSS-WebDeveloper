@@ -7,7 +7,7 @@
 * 1997 / 1999 o CSS ficou popularmente conhecido;
 * Atualmente se encontra na vrsão CSS3
 
-## O que pode sr criado com CSS
+## O que pode ser criado com CSS
 
 * Layouts e estilizações de página web;
 * Animações;
